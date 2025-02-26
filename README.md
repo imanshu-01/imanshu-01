@@ -36,5 +36,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imanshu-01&" alt="himanshu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imanshu=01&" alt="himanshu" /></p>
 
