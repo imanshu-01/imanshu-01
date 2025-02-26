@@ -85,15 +85,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/saddamarbaa/saddamarbaa/output/github-snake.svg" />
 </picture>
 
-<p align="center">
-	<a href="https://github.com/catppuccin/github-readme-streak-stats/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/github-readme-streak-stats?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/github-readme-streak-stats/issues"><img src="https://img.shields.io/github/issues/catppuccin/github-readme-streak-stats?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/github-readme-streak-stats/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/github-readme-streak-stats?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
-</p>
-		
-
 <h3 align="left">Connect with me:</h3>
-
 
 <p>
 <a href="mailto:dearhimanshu3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dearhimanshu3@gmail.com-blue?style=flat-square&logo=gmail"></a>
@@ -103,9 +95,6 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/weltonpfelix/)](https://www.facebook.com/share/1EFdqueYJi/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+919011517221&text=Hi!)](https://api.whatsapp.com/send?phone=+919011517221&text=Hi!)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/_weltonfelix/)](https://twitter.com/Himansh79374221/)
-
-
-										&nbsp;
 
 <p align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
