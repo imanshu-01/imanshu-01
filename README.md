@@ -25,19 +25,16 @@
 
 <p>
 <a href="mailto:dearhimanshu3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dearhimanshu3@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/himanshu-patle-2b563730b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_ap"></a>
+<a href="https://www.linkedin.com/in/himanshu-patle-2b563730b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_ap"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-himanshu%20Arbaa%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/h_imanshu_01"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-h_imanshu_01_-blue?style=flat-square&logo=instagram"></a>
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/weltonpfelix/)](https://www.facebook.com/saddam.arbaa)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+919011517221&text=Hi!)](https://api.whatsapp.com/send?phone=+91901517221&text=Hi!)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+919011517221&text=Hi!)](https://api.whatsapp.com/send?phone=+919011517221&text=Hi!)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/_weltonfelix/)](https://twitter.com/Himansh79374221/)
 
 </p>
 
-<p align="left">
-<a href="https://twitter.com/Himansh79374221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="himanshu" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/himanshu-patle-2b563730b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_ap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subh12" height="30" width="40" /></a>
-<a href="https://instagram.com/h_imanshu_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himanshu" height="30" width="40" /></a>
 <a href="https://www.behance.net/tle9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="himanshu" height="30" width="40" /></a>
 </p>
 
