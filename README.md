@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Himansh79374221" target="blank"><img src="https://img.shields.io/twitter/follow/himanshu?logo=twitter&style=for-the-badge" alt="shubhajit" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Himansh79374221" target="blank"><img src="https://img.shields.io/twitter/follow/himanshu?logo=twitter&style=for-the-badge" alt="himanshu" /></a> </p>
 
 - 🔭 I’m currently working on: **optimizing backend logic, harnessing generative AI, and mastering DSA problem-solving.**
 
@@ -25,7 +25,7 @@
 <a href="https://twitter.com/Himansh79374221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="himanshu" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/himanshu-patle-2b563730b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_ap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subh12" height="30" width="40" /></a>
 <a href="https://instagram.com/h_imanshu_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himanshu" height="30" width="40" /></a>
-<a href="https://www.behance.net/himanshupatle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="himanshu" height="30" width="40" /></a>
+<a href="https://www.behance.net/tle9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="himanshu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
