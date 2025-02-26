@@ -78,6 +78,20 @@
     </tr>
 </table>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saddamarbaa/saddamarbaa/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saddamarbaa/saddamarbaa/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/saddamarbaa/saddamarbaa/output/github-snake.svg" />
+</picture>
+
+<p align="center">
+	<a href="https://github.com/catppuccin/github-readme-streak-stats/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/github-readme-streak-stats?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/github-readme-streak-stats/issues"><img src="https://img.shields.io/github/issues/catppuccin/github-readme-streak-stats?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/github-readme-streak-stats/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/github-readme-streak-stats?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+</p>
+		
+
 <h3 align="left">Connect with me:</h3>
 
 
@@ -91,19 +105,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/_weltonfelix/)](https://twitter.com/Himansh79374221/)
 
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saddamarbaa/saddamarbaa/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saddamarbaa/saddamarbaa/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/saddamarbaa/saddamarbaa/output/github-snake.svg" />
-</picture>
-
-<p align="center">
-	<a href="https://github.com/catppuccin/github-readme-streak-stats/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/github-readme-streak-stats?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/github-readme-streak-stats/issues"><img src="https://img.shields.io/github/issues/catppuccin/github-readme-streak-stats?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/github-readme-streak-stats/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/github-readme-streak-stats?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
-</p>
-												&nbsp;
+										&nbsp;
 
 <p align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
