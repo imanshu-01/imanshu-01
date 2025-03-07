@@ -1,4 +1,4 @@
-![MasterHead](https://cdnl.iconscout.com/lottie/premium/thumb/web-developer-animation-download-in-lottie-json-gif-static-svg-file-formats--programming-programmer-code-website-development-animations-3645913.mp4)
+![MasterHead](https://cdn.dribbble.com/userupload/17830703/file/original-3c0e53b540e3331f56cd930f751b2c97.png?resize=752x&vertical=center)
 <h1 align="center">Hi 👋, I'm Himanshu Patle</h1>
 <h3 align="center">
   
