@@ -44,7 +44,7 @@
             <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/FastAPI_b.jpg" title="FastAPI" width="100" alt="FastAPI">
         </td>
         <td>
-            <img src="https://img.icons8.com/color/2x/nodejs.png" title="Node.js" width="100" alt="Node.js">
+            <img src="https://www.marks-software.de/marks_software/img/product/application-back-end-app-and-web-development-with-django-version-4-5-python-framework-code-database-and-software-development.jpg" title="Django" width="100" alt="Django">
         </td>
         <td>
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/960px-SQLite370.svg.png" title="SQLite" width="100" alt="SQLite">
@@ -70,10 +70,10 @@
             <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" title="GitLab" width="100" alt="GitLab">
         </td>
         <td>
-            <img src="https://w7.pngwing.com/pngs/1006/374/png-transparent-web-development-node-js-socket-io-javascript-network-socket-modernization-miscellaneous-logo-web-application-thumbnail.png" title="Express" width="100" alt="Express">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" title="AWS" width="100" alt="AWS">
         </td>
         <td>
-            <img src="https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg" title="Python" width="100" alt="Python">
+            <img src="https://niltechedu.com/blog/wp-content/uploads/2021/11/python-programming-language.png" title="Python" width="100" alt="Python">
         </td>
     </tr>
 </table>
