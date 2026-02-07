@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Patle</h1>
 <h3 align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer+;JavaScript+%7C+React+%2B+Redux%7CNext+js;Nodejs+%7C+Express+%7C+MongoDB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Python+Developer+;JavaScript+%7C+React+%2B+Flask%7CDjango;FastAPI+%7C+AWS+%7C+MySQL)](https://git.io/typing-svg)
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu" /> </p>
@@ -35,7 +35,7 @@
             <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="React" width="100" alt="React.js">
         </td>
         <td>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" title="Nextjs" width="100" alt="Nextjs">
+            <img src="https://5.imimg.com/data5/SELLER/Default/2023/8/332555419/KY/SH/WD/10150302/power-bi-software-1000x1000.jpg" title="Power-BI" width="100" alt="Power-BI">
         </td>
         <td>
             <img src="https://www.citypng.com/public/uploads/preview/hd-mysql-logo-transparent-background-701751694771788209ydqoapx.png" title="MySQL" width="100" alt="MySQL">
