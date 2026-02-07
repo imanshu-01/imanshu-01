@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Patle</h1>
 <h3 align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Python+Developer+;JavaScript+%7C+React+%2B+Flask%7CDjango;FastAPI+%7C+AWS+%7C+MySQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Python+Developer+;JavaScript+%7C+React.js+%2B+Next.js%7CRestAPI's;Flask+%7C+FastAPI+%7C+SQL+%7C+Git/GitLab+%7C+Django;FastAPI+%7C+AWS+%7C+MySQL)](https://git.io/typing-svg)
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu" /> </p>
