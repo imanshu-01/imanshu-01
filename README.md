@@ -9,19 +9,17 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/himanshu-patle-2b563730b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_ap" target="blank"><img src="https://img.shields.io/twitter/follow/himanshu?logo=twitter&style=for-the-badge" alt="himanshu" /></a> </p>
 
-- 🔭 I’m currently working on: **optimizing backend logic, harnessing generative AI, and mastering DSA problem-solving.**
+- 🔭 I’m currently working on **building scalable Python full-stack applications, optimizing backend logic, and integrating AI-powered features.**
 
-- 🌱 I’m currently learning **Advanced Express.js,Node.Js,Django,DSA in Java**
+- 🌱 I’m currently learning **Advanced Django, FastAPI, REST APIs, PostgreSQL, and DSA using Python.**
 
-- 👯 I’m looking to collaborate on **Fullstack projects**
-`
+- 👯 I’m looking to collaborate on **Python full-stack projects, REST API development, and AI-integrated web applications.**
 
-- 💬 Ask me about **Javascript,React,Next.Js,CPP,AWS and any general software development questions.**
+- 💬 Ask me about **Python, Django, Flask, FastAPI, REST APIs, SQL, Git, and general software development.**
 
 - 📫 Let's Connect! **Check out My BIO 😒**
 
-- ⚡ Fun fact **I love creating Error ☠️**
-
+- ⚡ Fun fact **I love creating errors… and fixing them better than before ☠️🐍**
 
 <h2> 🛠 &nbsp;My Top Skills</h2>
 
