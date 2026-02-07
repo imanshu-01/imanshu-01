@@ -1,9 +1,19 @@
 ![MasterHead](https://maruf001-mt.github.io/Premium-Delivery/web.gif)
 <h1 align="center">Hi 👋, I'm Himanshu Patle</h1>
+
 <h3 align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Python+Developer+;JavaScript+%7C+React.js+%2B+Next.js%7CRestAPI's;Flask+%7C+FastAPI+%7C+SQL+%7C+Git/GitLab+%7C+Django;FastAPI+%7C+AWS+%7C+MySQL)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Full+Stack+Python+Developer;Python+%7C+Django+%7C+FastAPI+%7C+Flask;REST+APIs+%7C+MySQL+%7C+PostgreSQL;JavaScript+%7C+React.js+%7C+Next.js;AWS+%7C+Git+%7C+Docker;I+Love+Debugging+Errors+☠️🐍">
+    </img>
+  </a>
 </h3>
+
+<!-- Center GIF -->
+<p align="center">
+ <img src="https://raw.githubusercontent.com/AtulYadav01/AtulYadav01/master/gif3.gif"
+       title="Bad Signature"
+       alt="Bad Signature">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu" /> </p>
 
