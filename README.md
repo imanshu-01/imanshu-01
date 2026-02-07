@@ -11,7 +11,8 @@
 <!-- Center GIF -->
 <p align="center">
  <img src="https://raw.githubusercontent.com/AtulYadav01/AtulYadav01/master/gif3.gif"
-       title="Bad Signature"
+        width="380"
+	   title="Bad Signature"
        alt="Bad Signature">
 </p>
 
