@@ -38,16 +38,16 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" title="Nextjs" width="100" alt="Nextjs">
         </td>
         <td>
-            <img src="https://redux.js.org/img/redux-logo-landscape.png" title="Redux" width="100" alt="Redux">
+            <img src="https://www.citypng.com/public/uploads/preview/hd-mysql-logo-transparent-background-701751694771788209ydqoapx.png" title="MySQL" width="100" alt="MySQL">
         </td>
         <td>
-            <img src="https://decode.agency/wp-content/uploads/2023/05/React-Query-logo.png" title="React Query" width="100" alt="React Query">
+            <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/FastAPI_b.jpg" title="FastAPI" width="100" alt="FastAPI">
         </td>
         <td>
             <img src="https://img.icons8.com/color/2x/nodejs.png" title="Node.js" width="100" alt="Node.js">
         </td>
         <td>
-            <img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" title="MongoDB" width="100" alt="MongoDB">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/960px-SQLite370.svg.png" title="SQLite" width="100" alt="SQLite">
         </td>
     </tr>
     <tr>
@@ -73,7 +73,7 @@
             <img src="https://w7.pngwing.com/pngs/1006/374/png-transparent-web-development-node-js-socket-io-javascript-network-socket-modernization-miscellaneous-logo-web-application-thumbnail.png" title="Express" width="100" alt="Express">
         </td>
         <td>
-            <img src="https://img.icons8.com/color/344/java-coffee-cup-logo.png" title="Java" width="100" alt="Java">
+            <img src="https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg" title="Python" width="100" alt="Python">
         </td>
     </tr>
 </table>
