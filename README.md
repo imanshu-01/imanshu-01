@@ -5,8 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer+;JavaScript+%7C+React+%2B+Redux%7CNext+js;Nodejs+%7C+Express+%7C+MongoDB)](https://git.io/typing-svg)
 </h3>
 
-<img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HP_logo_2012.svg/250px-HP_logo_2012.svg.png">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu" /> </p>
 
 <p align="left"> <a href="https://www.linkedin.com/in/himanshu-patle-2b563730b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_ap" target="blank"><img src="https://img.shields.io/twitter/follow/himanshu?logo=twitter&style=for-the-badge" alt="himanshu" /></a> </p>
