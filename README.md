@@ -149,6 +149,8 @@ me.say_hello()
 
 </div>
 
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saddamarbaa/saddamarbaa/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saddamarbaa/saddamarbaa/output/github-snake.svg" />
