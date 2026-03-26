@@ -29,27 +29,19 @@
 
 <br/>
 
-## 👨‍💻 About Me
-
-<img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+## 🧾 About Me
 
 ```yaml
-Name     : Rushikesh Ingole
-Location : Nagpur, Maharashtra, India
-Education: BCA — 85% | 7th Rank at RTMNU
-Current  : AI & BI Analysis Trainee @ MIDC Butibori
-Phone    : +91 8010688184
-Email    : rushikeshingole467@gmail.com
+Name       : Himanshu Patle
+Location   : Nagpur, Maharashtra, India
+Education  : B.TECH — 75% | 7th Rank (RTMNU)
+Current    : AI & BI Analyst Trainee @ MIDC Butibori
 ```
 
-- 🔍 I turn **raw messy data** into clear business insights
-- 📊 I build **Power BI dashboards** that help businesses decide
-- **🌱 I’m currently learning **Advanced Django, FastAPI, REST APIs..**
-- 🤖 Currently learning **AI analytics and Machine Learning**
-- 📫 Let's Connect! **Check out My BIO 😒**
-- ⚡ Fun fact **I love creating errors… and fixing them better than before ☠️🐍**
+---
 
-<br clear="right"/>
+### ⭐ *“Data is messy… I make it meaningful.”*
+
 
 <h2> 🛠 &nbsp;My Top Skills</h2>
 
