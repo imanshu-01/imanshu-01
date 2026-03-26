@@ -1,9 +1,10 @@
-![MasterHead](https://maruf001-mt.github.io/Premium-Delivery/web.gif)
 <h1 align="center">Hi 👋, I'm Himanshu Patle</h1>
+
+<div align="center">
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Full+Stack+Python+Developer;Python+%7C+Django+%7C+FastAPI+%7C+Flask;REST+APIs+%7C+MySQL+%7C+PostgreSQL;JavaScript+%7C+React.js+%7C+Next.js;AWS+%7C+Git+%7C+Docker;I+Love+Debugging+Errors+☠️🐍">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Full+Stack+Python+Developer;Python+%7C+Django+%7C+FastAPI+%7C+Flask;AI+%26+BI+Analyst+%7C+Nagpur%2C+India;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Open+to+Work+-+Entry+Level+Roles;I+Love+Debugging+Errors+☠️🐍">
     </img>
   </a>
 </h3>
@@ -16,21 +17,39 @@
        alt="Bad Signature">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu" /> </p>
+<br/>
 
-<p align="left"> <a href="https://www.linkedin.com/in/himanshu-patle-2b563730b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_ap" target="blank"><img src="https://img.shields.io/twitter/follow/himanshu?logo=twitter&style=for-the-badge" alt="himanshu" /></a> </p>
+<img src="https://komarev.com/ghpvc/?username=imanshu-01&label=Profile+Views&color=00d4ff&style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/imanshu-01?label=Followers&style=flat-square&color=7b2ff7&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/Location-Nagpur%20India-ff6b35?style=flat-square&labelColor=0d1117" />
 
-- 🔭 I’m currently working on **building scalable Python full-stack applications, optimizing backend logic, and integrating AI-powered features.**
+<br/>
 
-- 🌱 I’m currently learning **Advanced Django, FastAPI, REST APIs, PostgreSQL, and DSA using Python.**
+## 👨‍💻 About Me
 
-- 👯 I’m looking to collaborate on **Python full-stack projects, REST API development, and AI-integrated web applications.**
+<img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-- 💬 Ask me about **Python, Django, Flask, FastAPI, REST APIs, SQL, Git, and general software development.**
+```yaml
+Name     : Rushikesh Ingole
+Location : Nagpur, Maharashtra, India
+Education: BCA — 85% | 7th Rank at RTMNU
+Current  : AI & BI Analysis Trainee @ MIDC Butibori
+Phone    : +91 8010688184
+Email    : rushikeshingole467@gmail.com
+```
 
+- 🔍 I turn **raw messy data** into clear business insights
+- 📊 I build **Power BI dashboards** that help businesses decide
+- **🌱 I’m currently learning **Advanced Django, FastAPI, REST APIs..**
+- 🤖 Currently learning **AI analytics and Machine Learning**
 - 📫 Let's Connect! **Check out My BIO 😒**
-
 - ⚡ Fun fact **I love creating errors… and fixing them better than before ☠️🐍**
+
+<br clear="right"/>
 
 <h2> 🛠 &nbsp;My Top Skills</h2>
 
@@ -89,6 +108,31 @@
     </tr>
 </table>
 
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=imanshu-01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2ff7&text_color=a0a0c0&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanshu-01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a0a0c0&langs_count=8" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=imanshu-01&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7b2ff7&fire=ff6b35&currStreakNum=00d4ff&sideNums=a0a0c0&currStreakLabel=7b2ff7&sideLabels=a0a0c0&dates=606080" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imanshu-01&bg_color=0d1117&color=00d4ff&line=7b2ff7&point=00d4ff&area=true&area_color=00d4ff&hide_border=true" alt="Contribution Graph" />
+
+</div>
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saddamarbaa/saddamarbaa/output/github-snake-dark.svg" />
