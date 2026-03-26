@@ -72,6 +72,7 @@ me.say_hello()
 	
 ### ⭐ **“Data is messy… I make it meaningful.”**
 
+---
 
 <h2> 🛠 &nbsp;My Top Skills</h2>
 
@@ -148,19 +149,19 @@ me.say_hello()
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imanshu-01&bg_color=0d1117&color=00d4ff&line=7b2ff7&point=00d4ff&area=true&area_color=00d4ff&hide_border=true" alt="Contribution Graph" />
-
-</div>
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saddamarbaa/saddamarbaa/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saddamarbaa/saddamarbaa/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/saddamarbaa/saddamarbaa/output/github-snake.svg" />
 </picture>
+
+
+---
+<div align="center">
+	
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imanshu-01&bg_color=0d1117&color=00d4ff&line=7b2ff7&point=00d4ff&area=true&area_color=00d4ff&hide_border=true" alt="Contribution Graph" />
+
+</div>
 
 <h3 align="left">Connect with me:</h3>
 
