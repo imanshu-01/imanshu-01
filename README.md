@@ -29,23 +29,48 @@
 
 <br/>
 
-## 👨‍💻 About Me
+## 💻 About Me in Code
+<div align="left">
+	
+```python
+class HimanshuPatle:
 
-🔍 I transform messy, unstructured data into meaningful business insights
+    name       = "Himanshu Patle"
+    location   = "Nagpur, Maharashtra, India"
+    role       = "AI and Business Intelligence Analyst"
+    education  = "B.TECH — 75% | RTMNU"
+    phone      = "+91 90115172XX"
+    email      = "dearhimanshu3@gmail.com"
+    portfolio  = "https://portfolio-himanshu-1253.netlify.app"
 
-📊 I design and build interactive Power BI dashboards that drive smarter decision-making
+    daily_work = [
+        "Writing clean SQL queries",
+        "Doing structured EDA with Python",
+        "Building Power BI dashboards",
+        "Finding business insights from raw data",
+        "Learning new AI and analytics tools",
+    ]
 
-🧹 Skilled in data cleaning, exploratory data analysis (EDA), and SQL-based reporting
+    learning_now = [
+        "Machine Learning",
+        "Predictive Modeling",
+        "Advanced DAX",
+        "Data Engineering Basics",
+    ]
 
-🤖 Currently expanding my expertise in AI-driven analytics and Machine Learning
+    def say_hello(self):
+        print("Thanks for visiting my GitHub profile!")
+        print("Let's connect and work with data together!")
 
-🎯 Actively seeking entry-level opportunities in Data Analytics and Business Intelligence
-
-⚡ Fun fact: I spot patterns in data faster than I find my keys 🔑
+me = HimanshuPatle()
+me.say_hello()
+```
 
 ---
 
-### ⭐ *“Data is messy… I make it meaningful.”*
+<div align="center">
+	
+### ⭐ **“Data is messy… I make it meaningful.”**
 
 
 <h2> 🛠 &nbsp;My Top Skills</h2>
