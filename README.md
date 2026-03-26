@@ -29,14 +29,19 @@
 
 <br/>
 
-## 🧾 About Me
+## 👨‍💻 About Me
 
-```yaml
-Name       : Himanshu Patle
-Location   : Nagpur, Maharashtra, India
-Education  : B.TECH — 75% | 7th Rank (RTMNU)
-Current    : AI & BI Analyst Trainee @ MIDC Butibori
-```
+🔍 I transform messy, unstructured data into meaningful business insights
+
+📊 I design and build interactive Power BI dashboards that drive smarter decision-making
+
+🧹 Skilled in data cleaning, exploratory data analysis (EDA), and SQL-based reporting
+
+🤖 Currently expanding my expertise in AI-driven analytics and Machine Learning
+
+🎯 Actively seeking entry-level opportunities in Data Analytics and Business Intelligence
+
+⚡ Fun fact: I spot patterns in data faster than I find my keys 🔑
 
 ---
 
